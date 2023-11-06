@@ -4,3 +4,13 @@ format: html
 ---
 
 - Time to recognize and begin pursuit after catch has been made; could facet this by play types (play action, screens)
+
+- Tackling angles; do they take good lines or deo they meander?
+
+- Expected tackles vs results; is a player missing more tackles than expected, performing better, or not getting involved(unable to shake blocks)?
+
+- How quickly do defenders recognize run/completed pass and swarm to the ball?
+
+- Focus on a position/position group given a certain formation/pass situation and evaluate their movements; do the good players move more or less? are they more active or more efficient with their movements?
+
+- Thinking about it from an offensive standpoint: what if tackles evaded isn't necessarily a sign of a good ball carrier? does the path they take matter more in terms of yards gained than how many missed tackles the defense had?
