@@ -5,7 +5,7 @@ format: html
 
 - Time to recognize and begin pursuit after catch has been made; could facet this by play types (play action, screens)
 
-- Tackling angles; do they take good lines or deo they meander?
+- Tackling angles; do they take good lines or do they meander?
 
 - Expected tackles vs results; is a player missing more tackles than expected, performing better, or not getting involved(unable to shake blocks)?
 
