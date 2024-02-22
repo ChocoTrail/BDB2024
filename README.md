@@ -12,4 +12,4 @@ R script that can read in the Big Data Bowl Data, choose a play, and then animat
 
 ### Repo Notes:
 
-In order for the code to work, you should have a folder called `Data` that contains all the raw Big Data Bowl csv's from the Kaggle website. They are not tracked and shouldn't be tracked on this repository for space restrictions. When tracking file changes in git, do not use `git add .`, intentionally `git add` each individual file that has been changed.
+In order for the code to work, you should have a folder called `Data` that contains all the raw Big Data Bowl csv's from the Kaggle website. They are not tracked and shouldn't be tracked on this repository for space restrictions.
